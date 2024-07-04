@@ -4,6 +4,30 @@
 
 ----
 
+## Erasmus+ Program Rehberi 2024: Detaylı İçerik ve Bölüm Açıklamaları
+
+Erasmus+ Program Rehberi, program hakkında kapsamlı bilgi sunan önemli bir kaynaktır. Rehber, dört ana bölümden oluşur:
+
+**Part A – Genel Bilgiler (General Information about the Erasmus+ Programme):**
+
+Bu bölüm, Erasmus+ programının temel amacını, hedeflerini, öncelikli alanlarını, bütçesini ve genel yapısını açıklar. Programın faydaları, kapsamı ve katılım koşulları gibi genel bilgilere bu bölümden ulaşabilirsiniz. (sayfa 4-34)
+
+**Part B – Eylemler Hakkında Bilgiler (Information about the Actions Covered by this Guide):**
+
+Program kapsamında desteklenen farklı eylemler ve bu eylemlere başvurmak için gerekli bilgileri içerir. Bu bölüm, gençlik alanındaki projeler için "Key Action 1: Learning Mobility of Individuals" başlığı altında detaylı açıklamalar sunar. Küçük ölçekli ortaklıklar, gençlik değişimleri, katılımcı gençlik çalışmaları gibi farklı proje türlerinin detaylarına buradan ulaşabilirsiniz. (sayfa 39-424)
+
+*   **Gençlik Alanı (Youth):** Gençlik alanındaki projelerle ilgili temel bilgileri içerir. (sayfa 39)
+*   **Öğrenme Hareketliliği (Learning Mobility of Individuals):** Bireylerin öğrenme hareketliliği projeleri hakkında detaylı bilgi sunar. (sayfa 40-99)
+*   **Küçük Ölçekli Ortaklıklar (Small-Scale Partnerships):** Bu tür projelerin amaçlarını, hedeflerini, başvuru koşullarını ve finansman kurallarını açıklar. (sayfa 248-253)
+
+**Part C – Başvuru Sahipleri İçin Bilgiler (Information for Applicants):**
+
+Bu bölüm, proje başvurusu yapacaklar için önemli bilgileri içerir. Başvuru süreci, başvuru formunun nasıl doldurulacağı, değerlendirme kriterleri, sözleşme şartları ve hibe yönetimi gibi konular bu bölümde ele alınır. (sayfa 425-448)
+
+**Part D – Terimler Sözlüğü (Glossary of Terms):**
+
+Programla ilgili teknik terimlerin ve kısaltmaların açıklamalarını içerir. (sayfa 449-463)
+
 
 
 # KA210 YOU Proje Başvuru Formu Sorularını Cevaplamak İçin Rehber Kullanım Adımları
