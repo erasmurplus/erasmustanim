@@ -4,7 +4,7 @@ Erasmus+ Programı, eğitim, öğretim, gençlik ve spor alanlarında bireylerin
 
 ## Genel Amaç ve Hedefler
 
-**Genel Amaç**: Erasmus+ Programı, bireylerin eğitim, mesleki ve kişisel gelişimini destekleyerek sürdürülebilir büyümeye, kaliteli işlere ve sosyal uyuma katkıda bulunmayı hedefler.
+**Genel Amaç**: Erasmus+ Programı, bireylerin eğitim, mesleki ve kişisel gelişimini destekleyerek sürdürülebilir büyümeye, kaliteli işlere ve sosyal uyuma katkıda bulunmayı hedefler. Bu kapsamda özel hedefler şunlardır:
 
 **Özel Hedefler**: 
 - Öğrenim hareketliliğini teşvik etmek
