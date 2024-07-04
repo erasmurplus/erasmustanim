@@ -1,4 +1,11 @@
 
+[Erasmus+ Program Rehberi 2024](https://erasmus-plus.ec.europa.eu/sites/default/files/2023-11/2024-Erasmus+Programme-Guide_EN.pdf)
+
+[GOOGLE ÇEVİRİ İLE](https://erasmus--plus-ec-europa-eu.translate.goog/document/erasmus-programme-guide-2024-version-1?_x_tr_sl=auto&_x_tr_tl=tr&_x_tr_hl=tr&_x_tr_pto=wapp)
+
+----
+
+
 ## PART A - ERASMUS+ PROGRAMI HAKKINDA GENEL BİLGİLER
 
 - **ERASMUS+ PROGRAMININ HEDEFLERİ NEDİR?** (*WHAT ARE THE OBJECTIVES OF THE ERASMUS+ PROGRAMME?*) Sayfa 6

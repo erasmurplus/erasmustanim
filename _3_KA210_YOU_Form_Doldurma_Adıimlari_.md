@@ -1,20 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="utf-8">
-
-    <title>ERASMUS PLUS 2021 - 2027</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="https://cdn.jsdelivr.net/npm/showdown@2.1.0/dist/showdown.min.js"></script>
-    
-</head>
-<body>
-
-<script>
-  // Markdown dosyanızın içeriğini bir değişkene atayın
-  var markdown = `
-
 [Erasmus+ Program Rehberi 2024](https://erasmus-plus.ec.europa.eu/sites/default/files/2023-11/2024-Erasmus+Programme-Guide_EN.pdf)
 
 [GOOGLE ÇEVİRİ İLE](https://erasmus--plus-ec-europa-eu.translate.goog/document/erasmus-programme-guide-2024-version-1?_x_tr_sl=auto&_x_tr_tl=tr&_x_tr_hl=tr&_x_tr_pto=wapp)
@@ -22,9 +5,8 @@
 ----
 
 
-# Rehber ve form arasındaki ilişkinin daha açıklayıcı örneklerle detaylandırılması.
 
-## Proje Başvuru Formu Soruları ve Rehberle İlişkileri
+# KA210 YOU Proje Başvuru Formu Sorularını Cevaplamak İçin Rehber Kullanım Adımları
 
 ## 1. Proje Başlangıç Tarihi:
 
@@ -70,31 +52,4 @@
 
 *   **Formdaki Soru:** Projenizin AB değerlerine bağlılığını teyit etmeniz istenir.
 *   **Rehberdeki İlgili Bölüm (C Bölümü):** "AB Değerlerine Saygı" başlığı altında, AB değerlerinin neler olduğu ve projelerin bu değerlere nasıl uyması gerektiği açıklanır.
-
-
-
-
-`;
-
-  var converter = new showdown.Converter();
-
-  // Markdown dosyanızı HTML dosyasına dönüştürün
-  var html = converter.makeHtml(markdown);
-
-  // HTML dosyanızı web sitenizde gösterin
-  document.write(html);
-</script>
-
-</body>      
-</html>
-
-
-
-
-
-
-
-
-
-
 
