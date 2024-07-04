@@ -1,3 +1,0 @@
-# erasmustanim
-tanim
-denememe
