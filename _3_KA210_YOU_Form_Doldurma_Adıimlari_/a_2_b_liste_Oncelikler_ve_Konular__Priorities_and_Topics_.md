@@ -48,7 +48,7 @@ Dijital dönüşüm, ortak değerler, çevre ve iklim değişikliği gibi konula
 
 ---
 
-### Please select the most relevant priority according to the objectives of your project. (*### Lütfen projenizin hedeflerine göre en alakalı önceliği seçin.*)
+### Please select the most relevant priority according to the objectives of your project. (*Lütfen projenizin hedeflerine göre en alakalı önceliği seçin.*)
 
 #### HORIZONTAL başlıkları:
 - Eğitim, gençlik ve spor gibi alanlarda ortak değerler, sivil katılım, çevre, iklim değişikliği, kapsayıcılık ve çeşitlilik gibi konuları içeriyor.
@@ -95,7 +95,7 @@ Yetişkin eğitimi, yükseköğretim, okul eğitimi, mesleki eğitim ve öğreti
 
 ---
 
-### Please select the most relevant priority according to the objectives of your project. (*### Lütfen projenizin hedeflerine göre en alakalı önceliği seçin.*)
+### Please select the most relevant priority according to the objectives of your project. (*Lütfen projenizin hedeflerine göre en alakalı önceliği seçin.*)
 
 #### HORIZONTAL - YATAY
 YATAY: Bunlar eğitim, öğretim, gençlik ve spor alanlarının tümüne uygulanan önceliklerdir. Dijital dönüşüm, ortak değerler, yurttaşlık katılımı, çevre, iklim değişikliği, kapsayıcılık ve çeşitlilik gibi kesintisiz konuları ele alırlar.
