@@ -1,6 +1,7 @@
 ## İÇİNDEKİLER
 
 ### ERASMUS+ PROJESİ İÇİN ÖNCELİKLER
+
 - **YATAY ÖNCELİKLER**
   - Please select the most relevant priority according to the objectives of your project.
 - **SEKTÖREL ÖNCELİKLER**
@@ -17,6 +18,7 @@
 ---
 
 ## ERASMUS+ PROJESİ İÇİN ÖNCELİKLER
+
 Erasmus+ Programı'nın proje konusunun öncelikleri hakkında daha fazla bilgi için sayfa 30-35 arasına bakabilirsiniz.
 [Erasmus+ Program Rehberi 2024 v1](https://erasmus-plus.ec.europa.eu/sites/default/files/2023-11/2024-Erasmus%2BProgramme-Guide_EN.pdf)
 
@@ -51,23 +53,34 @@ Dijital dönüşüm, ortak değerler, çevre ve iklim değişikliği gibi konula
 ### Please select the most relevant priority according to the objectives of your project. (*Lütfen projenizin hedeflerine göre en alakalı önceliği seçin.*)
 
 #### HORIZONTAL başlıkları:
+
 - Eğitim, gençlik ve spor gibi alanlarda ortak değerler, sivil katılım, çevre, iklim değişikliği, kapsayıcılık ve çeşitlilik gibi konuları içeriyor.
 
 **HORIZONTAL:**
+
 1. HORİZONTAL: Addressing digital transformation through development of digital readiness, resilience and capacity (*Dijital dönüşümü, dijital hazırlık, dayanıklılık ve kapasite geliştirme yoluyla ele almak*)
+
 2. HORİZONTAL: Common values, civic engagement and participation (*Ortak değerler, sivil katılım ve katılım*)
+
 3. HORİZONTAL: Environment and fight against climate change (*Çevre ve iklim değişikliğiyle mücadele*)
+
 4. HORİZONTAL: Inclusion and diversity in all fields of education, training, youth and sport (*Eğitim, öğretim, gençlik ve sporun tüm alanlarında kapsayıcılık ve çeşitlilik*)
 
 
 #### YOUTH başlıkları:
+
 - Gençlik çalışmalarının kalitesini, yeniliğini ve tanınırlığını artırmak, gençlerin aktif vatandaşlığını, girişimciliğini ve sosyal girişimciliği teşvik etmek, politika, araştırma ve uygulama arasındaki bağları güçlendirmek, gençlerin istihdam edilebilirliğini artırmak ve Avrupa’daki gençlik alanının Ukrayna’daki savaşa verdiği yanıtı desteklemek gibi konuları içeriyor.
 
 **YOUTH:**
-1. HYOUTH: Increasing quality, innovation and recognition of youth work (*Gençlik çalışmalarının kalitesini, yeniliğini ve tanınırlığını artırmak*)
+
+5. YOUTH: Increasing quality, innovation and recognition of youth work (*Gençlik çalışmalarının kalitesini, yeniliğini ve tanınırlığını artırmak*)
+
 6. YOUTH: Promoting active citizenship, young people’s sense of initiative and youth entrepreneurship including social entrepreneurship (*Aktif vatandaşlığı, gençlerin girişimcilik duygusunu ve sosyal girişimciliği teşvik etmek*)
+
 7. YOUTH: Reinforcing links between policy, research and practice (*Politika, araştırma ve uygulama arasındaki bağları güçlendirmek*)
+
 8. YOUTH: Strengthening the employability of young people (*Gençlerin istihdam edilebilirliğini artırmak*)
+
 9. YOUTH: Supporting response of the Youth field in Europe to war in Ukraine (*Avrupa’daki gençlik alanının Ukrayna’daki savaşa verdiği yanıtı desteklemek*)
 
 
