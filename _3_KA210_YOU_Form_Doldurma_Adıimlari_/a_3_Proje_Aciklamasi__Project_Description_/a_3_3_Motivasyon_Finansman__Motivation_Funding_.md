@@ -43,3 +43,4 @@
 3. **Projenizin neden AB fonlarına ihtiyaç duyduğunu ve bu fonların projenin başarısı için kritik olduğunu belirtin:**
 
    - Projenizin bütçesini ve bu bütçenin AB fonları olmadan nasıl karşılanamayacağını açıklayın. AB fonlarının, projenizin hedeflerine ulaşmasında ve etkisini artırmasında nasıl bir rol oynayacağını belirtin. Projenizin sürdürülebilirliğini ve katma değerini vurgulayarak AB fonlarının önemini açıklayın.
+   
