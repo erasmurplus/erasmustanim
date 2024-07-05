@@ -4,7 +4,6 @@
 
 - Projenizin hedef gruplarını belirtiniz.
 
-
 **Alan Adı ve Açıklaması:** Projenizin hedeflediği grupları ve bu grupların tanımını yapmanızı gerektirir.
 
 **Genel Bilgiler:** Erasmus+ Programı, farklı yaş gruplarından (13-30) ve farklı sosyal, kültürel ve ekonomik geçmişlere sahip bireylerin katılımını teşvik eder. Projenizin hedef kitlesi, programın kapsadığı eğitim, gençlik ve spor alanlarındaki bireylerden oluşmalıdır. Hedef kitlenizi tanımlarken yaş, cinsiyet, eğitim düzeyi, sosyal ve ekonomik durum gibi faktörleri göz önünde bulundurabilirsiniz.

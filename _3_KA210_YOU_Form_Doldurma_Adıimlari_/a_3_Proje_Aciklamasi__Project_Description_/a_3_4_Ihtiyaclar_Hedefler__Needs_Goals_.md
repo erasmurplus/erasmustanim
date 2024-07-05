@@ -2,6 +2,8 @@
 
 **İhtiyaçlar ve Hedefler:**
 
+- Proje, katılımcı organizasyonların ihtiyaçlarını ve hedeflerini ve hedef gruplarının belirlenen ihtiyaçlarını nasıl ele alıyor?
+
 **Alan Adı ve Açıklaması:** Projenin, katılımcı kuruluşların ve hedef grupların belirlenen ihtiyaçlarını nasıl ele aldığını açıklamanızı gerektirir.
 
 **Genel Bilgiler:** Erasmus+ projeleri, katılımcı kuruluşların kapasitelerini güçlendirmeyi ve hedef kitlelerinin ihtiyaçlarını karşılamayı amaçlar. Projenizin, katılımcı kuruluşların hangi alanlarda gelişimine katkıda bulunacağını ve hedef kitlenizin hangi sorunlarına çözüm sunacağını açıkça belirtmeniz gerekmektedir.
