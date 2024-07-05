@@ -64,7 +64,7 @@ Dijital dönüşüm, ortak değerler, çevre ve iklim değişikliği gibi konula
 - Gençlik çalışmalarının kalitesini, yeniliğini ve tanınırlığını artırmak, gençlerin aktif vatandaşlığını, girişimciliğini ve sosyal girişimciliği teşvik etmek, politika, araştırma ve uygulama arasındaki bağları güçlendirmek, gençlerin istihdam edilebilirliğini artırmak ve Avrupa’daki gençlik alanının Ukrayna’daki savaşa verdiği yanıtı desteklemek gibi konuları içeriyor.
 
 **YOUTH:**
-5. YOUTH: Increasing quality, innovation and recognition of youth work (*Gençlik çalışmalarının kalitesini, yeniliğini ve tanınırlığını artırmak*)
+1. HYOUTH: Increasing quality, innovation and recognition of youth work (*Gençlik çalışmalarının kalitesini, yeniliğini ve tanınırlığını artırmak*)
 6. YOUTH: Promoting active citizenship, young people’s sense of initiative and youth entrepreneurship including social entrepreneurship (*Aktif vatandaşlığı, gençlerin girişimcilik duygusunu ve sosyal girişimciliği teşvik etmek*)
 7. YOUTH: Reinforcing links between policy, research and practice (*Politika, araştırma ve uygulama arasındaki bağları güçlendirmek*)
 8. YOUTH: Strengthening the employability of young people (*Gençlerin istihdam edilebilirliğini artırmak*)
