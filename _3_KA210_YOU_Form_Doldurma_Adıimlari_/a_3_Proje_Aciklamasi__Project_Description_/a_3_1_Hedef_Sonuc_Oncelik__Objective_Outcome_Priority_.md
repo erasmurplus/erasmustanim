@@ -1,6 +1,10 @@
-### Proje Başvuru Rehberi
+## Proje Açıklaması (Project Description)
 
-### Proje Açıklaması (Project Description)
+**Amaçlar ve Sonuçlar:**
+
+- Projenin somut hedefleri ve gerçekleştirmeyi istediği 'sonuçlar veya neticeler' nelerdir?
+
+- Bu hedefler seçilen önceliklerle nasıl bağlantılıdır?
 
 **Alan Adı ve Açıklaması:** Projenin somut hedeflerini, beklenen sonuçlarını ve bu hedeflerin seçilen önceliklerle ilişkisini açıklamanızı gerektirir.
 

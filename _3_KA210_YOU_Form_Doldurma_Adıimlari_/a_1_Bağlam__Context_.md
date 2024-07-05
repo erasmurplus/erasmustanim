@@ -1,5 +1,3 @@
-# KA210-YOU Detaylandırılmış Proje Başvuru Formu Rehberi
-
 ## 1. Alan (Field)
 
 **Alan Adı ve Açıklaması:**
