@@ -18,7 +18,7 @@ Program kapsamında desteklenen farklı eylemler ve bu eylemlere başvurmak içi
 
 *   **Gençlik Alanı (Youth):** Gençlik alanındaki projelerle ilgili temel bilgileri içerir. (sayfa 39)
 *   **Öğrenme Hareketliliği (Learning Mobility of Individuals):** Bireylerin öğrenme hareketliliği projeleri hakkında detaylı bilgi sunar. (sayfa 40-99)
-*   **Küçük Ölçekli Ortaklıklar (Small-Scale Partnerships):** Bu tür projelerin amaçlarını, hedeflerini, başvuru koşullarını ve finansman kurallarını açıklar. (sayfa 248-253)
+*   **Küçük Ölçekli Ortaklıklar (Small-Scale Partnerships):** Bu tür projelerin amaçlarını, hedeflerini, başvuru koşullarını ve finansman kurallarını açıklar. (sayfa 248-255)
 
 **Part C – Başvuru Sahipleri İçin Bilgiler (Information for Applicants):**
 
