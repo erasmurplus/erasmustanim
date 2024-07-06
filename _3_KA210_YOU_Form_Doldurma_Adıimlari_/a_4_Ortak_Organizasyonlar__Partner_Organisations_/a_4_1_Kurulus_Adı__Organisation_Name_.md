@@ -6,19 +6,19 @@
 
 **Formdaki İlgili Alanlar:**
 
-*   **Legal name (Yasal Ad):** Kuruluşun resmi olarak kayıtlı olduğu yasal adı.
-
-*   **Country (Ülke):** Kuruluşun yerleşik olduğu ülke.
-
-*   **Number of forms using the OID (OID'yi kullanan form sayısı):** Kuruluşun aynı Organizasyon Kimlik Numarası (OID) ile kaç başvuru yaptığını gösterir.
-
-*   **City (Şehir):** Kuruluşun merkez ofisinin bulunduğu şehir.
+- **Legal name (Yasal Ad):** Kuruluşun resmi olarak kayıtlı olduğu yasal adı.
+- 
+- **Country (Ülke):** Kuruluşun yerleşik olduğu ülke.
+- 
+- **Number of forms using the OID (OID'yi kullanan form sayısı):** Kuruluşun aynı Organizasyon Kimlik Numarası (OID) ile kaç başvuru yaptığını gösterir.
+- 
+- **City (Şehir):** Kuruluşun merkez ofisinin bulunduğu şehir.
 
 **Ek Bilgiler ve İpuçları:**
 
-*   Kuruluşunuzun yasal adını, ülkesini ve şehrini doğru ve eksiksiz olarak girdiğinizden emin olun.
+- Kuruluşunuzun yasal adını, ülkesini ve şehrini doğru ve eksiksiz olarak girdiğinizden emin olun.
 
-*   Organizasyon Kimlik Numaranızı (OID) doğru girin. Bu numara, kuruluşunuzun Erasmus+ Programı'na kayıtlı olduğunu ve daha önceki başvurularınızı takip etmek için kullanılır.
+- Organizasyon Kimlik Numaranızı (OID) doğru girin. Bu numara, kuruluşunuzun Erasmus+ Programı'na kayıtlı olduğunu ve daha önceki başvurularınızı takip etmek için kullanılır.
 
-*   Eğer aynı OID ile birden fazla başvuru yapıyorsanız, bu bölümü her başvuru için ayrı ayrı doldurmanız gerekmektedir.
+- Eğer aynı OID ile birden fazla başvuru yapıyorsanız, bu bölümü her başvuru için ayrı ayrı doldurmanız gerekmektedir.
 
