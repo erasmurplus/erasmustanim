@@ -1,20 +1,26 @@
-Proje Açıklaması/Tanımı:
 
 
-1- **Amaçlar ve Sonuçlar:**
-- Projenin somut hedefleri ve gerçekleştirmeyi istediği 'sonuçlar veya neticeler' nelerdir?
-- Bu hedefler seçilen önceliklerle nasıl bağlantılıdır?
+**Kuruluş Kimliği ve Başvuru Detayları**
+Kuruluşun yasal adı, ülkesi, şehri ve Organizasyon Kimlik Numarası (OID) gibi temel bilgileri içerir.
 
-2- **Hedef Gruplar:**
-- Projenizin hedef gruplarını belirtiniz.
+- Yasal ad
+- Ülke
+- OID'yi kullanan form sayısı
+- Şehir
 
-3- **Motivasyon ve Finansman:**
-- Projenizin motivasyonunu açıklayın ve neden finanse edilmesi gerektiğini açıklayın.
+**Geçmiş ve Deneyim**
+Kuruluşun geçmişi, ana faaliyetleri, ilgili eğitim alanındaki deneyimleri ve hedef öğrenen profilleri hakkında bilgi sağlar.
 
-4- **İhtiyaçlar ve Hedefler:**
-- Proje, katılımcı organizasyonların ihtiyaçlarını ve hedeflerini ve hedef gruplarının belirlenen ihtiyaçlarını nasıl ele alıyor?
+- Lütfen kuruluşunuzu kısaca tanıtın.
+- Kuruluşunuzun ana faaliyetleri nelerdir?
+- Bu başvuru alanında kuruluşunuzun faaliyetleri nelerdir?
+- Kuruluşunuzun çalışmaları hangi profillerdeki ve yaş gruplarındaki öğrenenleri ilgilendiriyor?
+- Bu başvuru alanında kuruluşunuzun kaç yıllık deneyimi var?
 
-5- **Uluslararası İş Birliğinin Faydaları:**
-- Proje hedeflerine ulaşmak için uluslararası ortaklarla iş birliği yapmanın faydaları nelerdir?
+**Başvuru Sahibi Olarak veya Ortak veya Konsorsiyum Üyesi Olarak**
+Başvuranın eylem türü, yapılan proje başvurularının ve onaylanan projelerin sayısı gibi başvuru istatistiklerini içerir.
 
+- Eylem Türü
+- Proje başvuruları sayısı
+- Onaylanan projeler sayısı
 
